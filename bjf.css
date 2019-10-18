@@ -1,3 +1,18 @@
+html, body {
+    
+    color: white;
+    overflow-x: hidden;
+    overflow-y: hidden; 
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: #333333;
+      
+    
+  }
+
 #factShow {
-    font-size:10em;
-}label
+    font-size:2em;
+    color: white;
+    opacity: 0.80;
+}
