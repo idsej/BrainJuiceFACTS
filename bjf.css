@@ -7,12 +7,10 @@ html, body {
     width: 100%;
     position: absolute;
     background-color: #333333;
-      
-    
-  }
+}
 
 #factShow {
-    font-size:2em;
+    font-size:9vw;
     color: white;
     opacity: 0.80;
 }
